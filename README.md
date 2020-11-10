@@ -11,7 +11,7 @@
 
 ##option 1(With IntelliJ IDEA)
 1. Git clone this repo
-    * `` 
+    * `https://github.com/wilsongumba/ApplitoolsHolidayShoppingHackathon.git` 
 2. Open the project in IntelliJ IDEA.
 3. Navigate to `TestSuites` folder, select any test suite you want to run, right click and select run(run Part1Suite first to create baseline, then run Part2Suite to view the bugs, finaly run Part3Suite to check if bugs have been fixed).
     * /Part1Suite.xml
