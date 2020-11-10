@@ -9,7 +9,7 @@
 
 ## Steps to run this project
 
-###option 1(With IntelliJ IDEA)
+##option 1(With IntelliJ IDEA)
 1. Git clone this repo
     * `` 
 2. Open the project in IntelliJ IDEA.
@@ -20,7 +20,7 @@
             
 3. Check test results for the modern tests in the applitools account dashboard.
 
-###option 2(On the Terminal)
+##option 2(On the Terminal)
 1. Ensure you have maven and home set.
 2. Open terminal at the project root and run `mvn clean test`
 3. Check test results for the modern tests in the applitools account dashboard.
