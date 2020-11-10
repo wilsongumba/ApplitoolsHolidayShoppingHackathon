@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Production version V1 Suite">
+
+    <test name="Part 1 V1" preserve-order="true">
+        <classes>
+            <class name="Part1.V1ProductionVersionTests">
+            </class>
+        </classes>
+    </test>
+
+</suite>

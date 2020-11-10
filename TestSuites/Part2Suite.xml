@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Dev-branch version Suite">
+
+    <test name="Part 2 DEV" preserve-order="true">
+        <classes>
+            <class name="Part2.DevBranchVersionTests">
+            </class>
+        </classes>
+    </test>
+
+</suite>

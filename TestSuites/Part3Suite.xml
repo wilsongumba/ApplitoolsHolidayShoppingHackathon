@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Final production version Suite">
+
+    <test name="Part 3 Final" preserve-order="true">
+        <classes>
+            <class name="Part3.FinalProductionVersionTests">
+            </class>
+        </classes>
+    </test>
+
+</suite>
